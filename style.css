@@ -1,0 +1,53 @@
+body {
+  font:normal x-normal/Georgia, Helvetica, Arial;
+  color: #073763;
+}
+
+h1 {
+  margin: 20px 0 20px 0;
+  font-size: 2.5em;
+  font-family: "Palatino","Palatino Linotype",serif;
+  font-weight: normal;
+}
+h2 {
+  margin: 20px 0 20px 0;
+  font-size: 1.3em;
+  font-weight: normal;
+  line-height: 1.2em;
+}
+
+h3 {
+  margin: 20px 0 20px 0;
+  font-size: 1.2em;
+}
+
+p {
+  margin: 20px 0 20px 0;
+  line-height: 1.4em;
+}
+
+#main {
+  overflow: auto;
+  max-width: 1000px;
+  padding: 0 40px 0 40px;
+  margin: 0 0 0 0;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;
+  margin: 0px auto;
+  width:auto;
+}
+
+.head {
+  margin: 20px 0 20px 0;
+}
+
+img {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  font-size: 90%;
+  text-align: center;
+}
